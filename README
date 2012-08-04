@@ -1,0 +1,6 @@
+I made this plugin project template for Bukkit so that you can just skip the messy process of setting up compilation, packaging and easy testing of your plugin.
+A guide on how to use it can be found here:
+
+http://forums.bukkit.org/threads/eclipse-juno-maven-craftbukkit-a-plugin-project-template.90715/
+
+While this is public domain, a little credit would make me happier. Yours faithfully, nickguletskii200.
